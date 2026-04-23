@@ -1,3 +1,19 @@
+## 📷 Screenshots
+
+### 🐳 Docker Build
+![Docker Build](<img width="1594" height="891" alt="Screenshot 2026-04-23 105147" src="https://github.com/user-attachments/assets/fead1ec0-0445-4daa-8abd-f723a189ffa5" />
+)
+
+### 📦 ECR Repository
+![ECR Repo](<img width="1916" height="884" alt="Screenshot 2026-04-23 105340" src="https://github.com/user-attachments/assets/fdb7a423-f2e8-4b00-9610-5f140ddb6ce8" />
+)
+
+### 🚀 Image in ECR
+![ECR Image](<img width="1574" height="720" alt="Screenshot 2026-04-23 101116" src="https://github.com/user-attachments/assets/fd1cb219-49fa-4066-99d5-5f588f7190c3" />
+)
+
+
+
 # 🚀 Push Docker Image to AWS ECR
 
 This is a practice project demonstrating how to build a Docker image and push it to AWS ECR.
