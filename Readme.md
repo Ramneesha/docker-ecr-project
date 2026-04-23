@@ -41,4 +41,4 @@ Image successfully pushed and verified in AWS ECR console.
 
 ---
 
-📌 This project is created for practice and learning purposes.
+📌 This project is created for practice and learning purposes.# docker-ecr-project
