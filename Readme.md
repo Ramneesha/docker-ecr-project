@@ -1,16 +1,13 @@
 ## 📷 Screenshots
 
 ### 🐳 Docker Build
-![Docker Build](screenshots/docker-build.png)
+![Docker Build](docker-build.png)
 
 ### 📦 ECR Repository
-![ECR Repo](screenshots/ecr-repo.png)
+![ECR Repo](ecr-repo.png)
 
 ### 🚀 Image in ECR
-![ECR Image](screenshots/ecr-image.png)
-
-# 🚀 Push Docker Image to AWS ECR
-
+![ECR Image](ecr-image.png)
 This is a practice project demonstrating how to build a Docker image and push it to AWS ECR.
 
 ## 🔧 Steps Performed
